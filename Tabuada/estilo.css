@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(85, 85, 85);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+/*select{
+    width: px;
+}*/
+
+section{
+    padding: 10px;
+    background-color: white;
+    margin: auto;
+    border-radius: 10px;
+    width: 400px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.603);
+}
+
+header{
+    text-align: center;
+    color: white;
+
+
+}
+
+footer{
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
